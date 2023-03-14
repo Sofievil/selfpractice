@@ -1,6 +1,14 @@
 body {
     background-image: url(img/cool-background.png); 
-    background-size: cover;
+    background-size:cover;
 }
 
+.menu {
+    display: inline-block;
+}
+
+.article{
+    position: relative;
+    top: 1000px;
+}
 
